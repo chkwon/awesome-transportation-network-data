@@ -3,7 +3,7 @@ A list of transportation network data
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-* [TNTP](https://github.com/bstabler/TransportationNetworks): The famous TNTP data. Most useful for studing traffic assignment problems.
+* [TNTP](https://github.com/bstabler/TransportationNetworks): The famous TNTP data. Most useful for studing traffic assignment problems. Includes Sioux Falls, Annaheim, Barcelona, Chicago, and many more.
 
 
 * [Hazmat](https://github.com/STOM-Group/Hazmat-Network-Data): Buffalo, NY and Albany, NY. Originally used to study routing problems in hazardous materials transportation. Includes accident probabilities and consequences.
