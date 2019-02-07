@@ -15,3 +15,4 @@ A list of transportation network data
 
 ## Other Useful Resources
 * [Awesome-Transit](https://github.com/CUTR-at-USF/awesome-transit): Community list of transit APIs, apps, datasets, research, and software
+* [VRP-REP](http://www.vrp-rep.org/datasets.html): The vehicle routing problem repository.
